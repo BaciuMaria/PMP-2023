@@ -4,8 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import arviz as az
 
-# Precizati daca un pasager de pe Titanic a supravietuit sau nu pe baza clasei de pasageri si a varstei.
-
 # Exercitiul 1
 
 # Punctul a
